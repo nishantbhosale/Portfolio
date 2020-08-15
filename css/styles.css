@@ -63,9 +63,7 @@ p{
 .messege-me{
   margin: 50px 0 40px 20px;
 }
-.email{
-  font-size: 1.2rem;
-}
+
 .footer{
   text-align: center;
 }
@@ -87,8 +85,9 @@ p{
   }
 
   p{
-    font-size: 1.7rem;
+    font-size: 1.6rem;
   }
+
   .boy{
     display: block;
     margin: auto;
@@ -96,9 +95,6 @@ p{
   }
   .nav-size{
     font-size: 1.5rem;
-  }
-  .email{
-  font-size: 1rem;
   }
   .contact-button{
     padding: 3;
