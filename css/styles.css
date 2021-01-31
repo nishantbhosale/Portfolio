@@ -1,1 +1,96 @@
-.black-section{color:#fff;background-color:#000}.nav-margin{margin-top:20px}body,h1,h2,h3,h4,h5,h6,p{font-family:'Montserrat',sans-serif}h1{margin-top:70px;font-size:3.5rem}.top-section{text-align:center;line-height:4}.boy{display:block;margin:auto;width:60%}.section-body{margin:100px 50px 0 50px}.header{margin-bottom:20px}.headerl{margin:50px 0 20px 0}hr{display:block;color:#fff;width:20%;height:2px}p{color:#838383;font-size:1.4rem}.content{line-height:1.5;margin-bottom:50px}.skill-label{line-height:1.5;margin:20px}.fonts{margin:10px 20px;text-align:center}.messege-me{margin:50px 0 40px 20px}.footer{text-align:center}.logo{margin:0 5px 20px 5px}.copyright{font-size:1rem}@media (max-width:990px){.messege-me{text-align:center}.contact-shrink{text-align:center}p{font-size:1.3rem}.boy{display:block;margin:auto;width:80%}.nav-size{font-size:1.5rem}.contact-button{padding:3;font-size:2.5rem}.logo{margin:0 12px 50px 5px}.copyright{font-size:1rem}}
+.black-section{
+    color:#fff;
+    background-color:#000
+}
+.nav-margin{ 
+       margin-top:20px
+}
+body,h1,h2,h3,h4,h5,h6,p
+{
+    font-family:'Montserrat',sans-serif
+}
+h1{
+    margin-top:70px;
+    font-size:3.5rem
+}
+.top-section{
+    text-align:center;
+    line-height:4
+}
+.boy{
+    display:block;
+    margin:auto;
+    width:60%
+}
+.section-body{
+    margin:100px 50px 0 50px
+}
+.header{
+    margin-bottom:20px
+}
+.headerl{
+    margin:50px 0 20px 0
+}
+hr{
+    display:block;
+    color:#fff;
+    width:20%;
+    height:2px
+}
+p{
+    color:#838383;
+    font-size:1.4rem
+}
+.content{
+    line-height:1.5;
+    margin-bottom:50px
+}
+.skill-label{
+    line-height:1.5;
+    margin:20px
+}
+.fonts{
+    margin:10px 20px;
+    text-align:center
+}
+.messege-me{
+    margin:50px 0 40px 20px
+}
+.footer{
+    text-align:center
+}
+.logo{
+    margin:0 5px 20px 5px
+}
+.copyright{
+    font-size:1rem
+}
+@media (max-width:990px){
+    .messege-me{
+        text-align:center
+    }
+    .contact-shrink{
+        text-align:center
+    }
+    p{
+        font-size:1.3rem
+    }
+    .boy{
+        display:block;
+        margin:auto;
+        width:80%
+    }
+    .nav-size{
+        font-size:1.5rem
+    }
+    .contact-button{
+        padding:3;
+        font-size:2.5rem
+    }
+    .logo{
+        margin:0 12px 50px 5px
+    }
+    .copyright{
+        font-size:1rem
+    }
+}
